@@ -13,7 +13,9 @@ element.class
 
 values:
 
+height: value(px);
 font-family: value;
 font-size: value;
+font-weight: value;
 color: value;
 background-color: value;
